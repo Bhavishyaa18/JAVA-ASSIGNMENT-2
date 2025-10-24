@@ -5,7 +5,7 @@
 - **Programme:** B.Tech / BCA / BSc  
 - **Semester:** 3rd  
 - **Course Code:** ENCS201 / ENCA203 / ENBC205  
-- **Faculty:** Mr. Vishwanil S  
+- **Faculty:** Ms. Lucky Verma 
 - **Session:** 2025–26  
 
 ---
